@@ -1,0 +1,12 @@
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\bin\Debug\MasterMind (Forms).exe.config
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\bin\Debug\MasterMind (Forms).exe
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).csproj.AssemblyReference.cache
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).csproj.SuggestedBindingRedirects.cache
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind__Forms_.EndMessage.resources
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind__Forms_.Main.resources
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind__Forms_.Properties.Resources.resources
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).csproj.GenerateResource.cache
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).csproj.CoreCompileInputs.cache
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).exe
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\obj\Debug\MasterMind (Forms).pdb
+D:\Programmation\MasterMind (Forms)\MasterMind (Forms)\bin\Debug\MasterMind (Forms).pdb
